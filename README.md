@@ -178,7 +178,7 @@ Van Steen, M., y Tanenbaum, A. S. (2023). *Distributed Systems* (4.ª ed.). dist
 Las fuentes utilizadas para sustentar los conceptos del mapa se encuentran reunidas en:
 
 - [`referencias-grupo.bib`](./referencias-grupo.bib)
-- [`docs/libros/`](./docs/libros/)
+
 
 ---
 
