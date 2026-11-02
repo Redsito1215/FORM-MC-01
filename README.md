@@ -173,11 +173,13 @@ Las fuentes utilizadas para sustentar los conceptos del mapa se encuentran reuni
 
 ---
 
-## 📎 Repositorio
+## 🎨 Tablero colaborativo en Miro
 
-Este proyecto se encuentra disponible en:
+El mapa conceptual puede consultarse en su versión interactiva mediante el siguiente enlace:
 
-[github.com/Redsito1215/FORM-MC-01](https://github.com/Redsito1215/FORM-MC-01)
+[🔗 Abrir mapa conceptual en Miro](https://miro.com/welcomeonboard/NG1ka2RkekFWTDVhOWh2MFJkV2dJZzREanAySE9jM2JzcVFJUWxuSkloRjhMRDY2SzVWU1pvZ0dlVkI3bFprek9TTi9rMG5OcGtxazc1M3pRaW44VDVFVXFlNjFQVUx3RGJyZGRPcDRDckZIY2FaMGg4ak9maHFKbGRWZXp4TE90R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=45296457322)
+
+> El tablero tiene permisos de visualización para facilitar la revisión del mapa y del trabajo colaborativo.
 
 ---
 
