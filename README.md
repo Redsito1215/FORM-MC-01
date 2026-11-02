@@ -6,10 +6,6 @@
 
 **Mapa conceptual colaborativo · Aplicaciones Distribuidas**
 
-![Estado](https://img.shields.io/badge/estado-completado-16a34a)
-![Modalidad](https://img.shields.io/badge/modalidad-grupal-2563eb)
-![Herramienta](https://img.shields.io/badge/herramienta-Miro-ffd02f)
-![Formato](https://img.shields.io/badge/entrega-PDF-dc2626)
 
 </div>
 
@@ -67,7 +63,6 @@ El mapa conceptual desarrolla los siguientes temas:
 | 📄 **Mapa conceptual en PDF** | [Visualizar PDF](./docs/Distributed%20Systems.pdf) |
 | 📚 **Referencias bibliográficas** | [Consultar archivo `.bib`](./referencias-grupo.bib) |
 | 📁 **Documentos del proyecto** | [Abrir carpeta `docs`](./docs/) |
-| 📖 **Libros consultados** | [Abrir carpeta de libros](./docs/libros/) |
 
 > El enlace de Miro posee permisos de visualización y permite al docente revisar la colaboración realizada por el equipo.
 
@@ -107,16 +102,12 @@ FORM-MC-01/
 ├── docs/
 │   ├── Distributed Systems.pdf
 │   ├── Distributed Systems.png
-│   └── libros/
-│       ├── Distributed_Systems_4.pdf
-│       └── Understanding Distributed Systems 2nd edition.pdf
 ├── referencias-grupo.bib
 └── README.md
 ~~~
 
 - `docs/Distributed Systems.png`: vista previa del mapa conceptual.
 - `docs/Distributed Systems.pdf`: versión final exportada.
-- `docs/libros/`: fuentes bibliográficas principales consultadas.
 - `referencias-grupo.bib`: referencias utilizadas en formato BibTeX.
 - `README.md`: documentación general de la actividad.
 
@@ -150,7 +141,7 @@ FORM-MC-01/
 - [x] Publicación de las referencias bibliográficas
 - [x] Incorporación del enlace de Miro
 - [x] Publicación de los materiales en GitHub
-- [ ] Revisión final de enlaces y permisos
+- [x] Revisión final de enlaces y permisos
 
 ---
 
